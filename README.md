@@ -6,12 +6,12 @@ to change your DNS at 'noip.com'. This script was made
 because in order to update your ip address without the script
 you would have to pay a certain price. 
 
-In the execute.bat file the first and third line should stay the same.
+In the execute.bat file the first, the third and the fourth line should stay the same.
 The second line can be modified to your preference. If you are running
 the execute.bat file from a directory that contains the .env and the update-noip.js
 file, there is no need to change the code in the batch file. If you want to run the
 batch file separately from the update-noip.js file, you have to write 'node [full path to your update-noip.js file]'
-in the second line of execute.bat file. You **cannot** run the .bat file without a .env file.
+in the second line of execute.bat file. You **cannot** run the .bat file without a .env file. 
 
 .env file contains your noip username, password and your desired hostname (considering you registered it 
 beforehand). 
