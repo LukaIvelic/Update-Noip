@@ -1,4 +1,4 @@
-# update-noip
+# Update-Noip
 Batch file combined with node.js to update dynamic DNS (Windows Only).
 
 If you have a dynamic DNS, you can use the uploaded batch file 
